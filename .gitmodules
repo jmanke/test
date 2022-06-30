@@ -1,0 +1,3 @@
+[submodule "taginsert"]
+	path = taginsert
+	url = git@devtopia.esri.com:matt7238/taginsert.git
